@@ -1,0 +1,32 @@
+header{
+    text-align: center;
+    font-size: large;
+    font-style:italic;
+}
+
+img{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 150px;
+}
+
+body{
+    background-color: rgb(0, 200, 255);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 25px,25px;   
+}
+.header{
+    text-align: center;
+    border:solid 2px green;
+    background-color: rgb(191, 0, 255);
+    
+}
+.programming{
+    text-align: center;
+    border: solid 2px rgba(38, 144, 114, 0.963);
+    background-color:rgba(6, 159, 255, 0.753);
+}
